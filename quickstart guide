@@ -10,6 +10,7 @@ This document contains all the placeholders in this document you will need to re
 9. Any GUI assets you may need in your program in assets folder
 10. automation/wrappers/releases/compilew.sh and compilew.bat, replace the jar name with your file name.
 11. .github/ISSUE_TEMPLATE/* 
+12. pom.xml
 The remaining folders are used by CI and wrappers. 
 
 You may want to look at automation/wrappers/releases/compilew.sh and compilew.bat . These files generate jars and classes.
