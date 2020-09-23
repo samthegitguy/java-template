@@ -1,5 +1,4 @@
-Main-Class: Emulator
-Built-by: samthegitguy
-Github-Repository: https://github.com/samthegitguy/incognow
-Version: Pre-alpha
-Ready-status: Not-Ready
+Main-Class: MAIN-CLASS without class extension
+Built-by: USER-NAME
+Github-Repository: https://github.com/USER-NAME/REPO-NAME
+Version: SEMANTIC-VERSION
